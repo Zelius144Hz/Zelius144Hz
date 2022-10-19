@@ -1,4 +1,4 @@
-### Hey! Tudo bem?! 👊 Me chamo Mauricio Silva. Seja muito bem-vindo!
+### Hey! Tudo bem?! 👊 Seja muito bem-vindo!
   [![Blog](https://img.shields.io/badge/Tech-crunch-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)](https://techcrunch.com/)  [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/techtudo_oficial/) [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/gaules)
 
